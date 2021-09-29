@@ -1,0 +1,24 @@
+{
+  "name": "Tutorial-on-Node.js-and-Express.js--Youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinmemphis/Tutorial-on-Node.js-and-Express.js.git"
+  },
+  "keywords": [],
+  "author": "Justin Carter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Justinmemphis/Tutorial-on-Node.js-and-Express.js/issues"
+  },
+  "homepage": "https://github.com/Justinmemphis/Tutorial-on-Node.js-and-Express.js#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "lodash": "^4.17.21"
+  }
+}
